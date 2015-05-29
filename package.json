@@ -1,0 +1,11 @@
+{
+  "name": "TestWorkflow",
+  "version": "0.0.1",
+  "description": "A test project for workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Ben Attenborough"
+}
